@@ -1,0 +1,6 @@
+*.xcodeproj
+.nvim
+buildServer.json
+.DS_Store
+Info.plist
+entitlements.plist

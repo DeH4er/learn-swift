@@ -1,0 +1,29 @@
+name: LearnSwift
+settings:
+  MARKETING_VERSION: 0.0.1
+  CURRENT_PROJECT_VERSION: 0.0.1
+  DEVELOPMENT_TEAM: AAAAAAAAAA
+  CODE_SIGN_STYLE: Automatic
+options:
+  bundleIdPrefix: com.denys-lytviak.LearnSwift
+targets:
+  LearnSwiftApp:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.5"
+    sources:
+      - src
+    info:
+      path: src/Info.plist
+      properties:
+        UISupportedInterfaceOrientations~iphone:
+          - "UIInterfaceOrientationPortrait"
+        UIApplicationSceneManifest:
+          Generation: "YES"
+        UIApplicationSupportsIndirectInputEvents: "YES"
+        UILaunchScreen:
+          Generation: "YES"
+        UIAppFonts:
+          - "CormorantGaramond-Light.ttf"
+          - "Martel-Regular.ttf"
+          - "CamelotCaps.ttf"
