@@ -4,7 +4,7 @@ This is a project to learn Swift, SwiftUI and iOS development.
 All the props for good design should go for the team behind Opal app.
 Nothing in this project is actually functional, it's just a playground to learn.
 
-![Demo](https://raw.githubusercontent.com/DeH4er/learn-swift/master/.github/demo.mov)
+https://github.com/DeH4er/learn-swift/assets/6437409/b18767d2-d8da-41e3-8e0e-00e94b9d5c0a
 
 ## How to run
 
